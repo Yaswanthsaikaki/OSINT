@@ -1,0 +1,5 @@
+filename:.env
+filename:config.json password
+extension:json AWS_SECRET
+token language:python
+filename:.git-credentials
